@@ -1,4 +1,4 @@
-This file contain dictionary which is edveloped using data structures and algorithm 
+This file contain dictionary which is developed using data structures and algorithm 
 We use AVL Trees as a data structures to store the words and their meaning.
 There are two text files 1 is as a Example and 1 is dimmy data.
 This is Final semester project
