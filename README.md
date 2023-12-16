@@ -5,3 +5,4 @@ This is Final semester project
 This dictionary can add, remove, seacrh and update the words and there meanings
 This also give suggestions
 I try to implement all concepts of data structures
+This project is console base in c++ programming language
